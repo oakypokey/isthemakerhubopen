@@ -116,7 +116,7 @@ textarea {
 #open{
     text-align: center;
     font-size: 20vh;
-    margin-top: 10vh;
+    margin-top: 1vh;
     font-family: 'Dhurjati', sans-serif;
 }
 
@@ -126,6 +126,13 @@ textarea {
 
 body{
     background-color: #A0EADE;
+}
+
+.location{
+    text-align: center;
+    font-size: 10vh;
+    font-family: 'Dhurjati', sans-serif;
+    margin:0;
 }
 
 
