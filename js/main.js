@@ -29,5 +29,5 @@ var getOpen = function() {
 
     var currentTimings = timings[currentDay];
 
-    return currentTime > currentTimings.open && currentTime < currentTimings.close;
+    return currentTime >= currentTimings.open && currentTime < currentTimings.close;
 }
